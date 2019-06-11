@@ -1,0 +1,53 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  padding: 2em;
+  background-color: rgb(70, 74, 80);
+}
+
+.chart-out{
+  margin-top: 1.5em;
+}
+#table-visual{
+  display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   background: rgb(34, 31, 31);
+   color: white;
+}
+
+.games{
+  padding: 1.5em;
+  font-family: monospace;
+  font-size: 1.2em;
+  
+}
+
+.table-head-item{
+  padding: 1em;
+  list-style-type: none;
+  background-color: teal;
+  margin-top: 0.5em;
+  border-radius: 20px;
+}
+
+.year-each{
+  padding: 1em 1em 1em 0em;
+  
+  margin-left: 1em;
+}
+
+@media (max-width: 786px){
+  #table-visual{
+    
+     grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 570px){
+  #table-visual{
+    
+     grid-template-columns: 1fr ;
+  }
+}

@@ -1,0 +1,52 @@
+{
+    "USA": {
+        "Silver": 458,
+        "Bronze": 361,
+        "Gold": 570
+    },
+    "Russia": {
+        "Silver": 203,
+        "Bronze": 301,
+        "Gold": 254
+    },
+    "Germany": {
+        "Silver": 215,
+        "Gold": 256,
+        "Bronze": 235
+    },
+    "China": {
+        "Bronze": 165,
+        "Silver": 167,
+        "Gold": 244
+    },
+    "Australia": {
+        "Bronze": 193,
+        "Silver": 193,
+        "Gold": 126
+    },
+    "Canada": {
+        "Bronze": 148,
+        "Gold": 227,
+        "Silver": 120
+    },
+    "UK": {
+        "Gold": 167,
+        "Bronze": 120,
+        "Silver": 140
+    },
+    "France": {
+        "Gold": 110,
+        "Silver": 136,
+        "Bronze": 124
+    },
+    "Italy": {
+        "Bronze": 148,
+        "Silver": 131,
+        "Gold": 72
+    },
+    "Netherlands": {
+        "Bronze": 81,
+        "Silver": 138,
+        "Gold": 96
+    }
+}
